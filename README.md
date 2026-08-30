@@ -1,5 +1,3 @@
-This mod adds Mario to Smack Talk.
-
 Installation: Download melonloader run that once then close the game and add the Mods and UserData folder to the games directory.
 MelonLoader: https://github.com/LavaGang/MelonLoader/releases/tag/v0.7.3
 
